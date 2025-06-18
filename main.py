@@ -1,5 +1,5 @@
-from gui.mbti_gui import MBTIGUI
+from mbti.gui.mbti_gui import MBTIGUI
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app = MBTIGUI()
     app.run()
