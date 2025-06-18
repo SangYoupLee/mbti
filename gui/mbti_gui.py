@@ -1,7 +1,7 @@
 import tkinter as tk
-from core.user import User
-from core.mbti_manager import MBTIManager
-from core.file_manager import FileManager
+from mbti.core.user import User
+from mbti.core.mbti_manager import MBTIManager
+from mbti.core.file_manager import FileManager
 
 class MBTIGUI:
     def __init__(self):
